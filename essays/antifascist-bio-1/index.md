@@ -7,7 +7,7 @@ position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
 
-# Biography 3
+# Biography 1
 
 Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
 
@@ -23,8 +23,8 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
 
 {% include images/figure-wrap.html
   image-path="images/figure_1.jpg"
-  image-position="left"
-  image-width="48%"
+  image-position="right"
+  image-width="80%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
 %}
@@ -56,7 +56,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% include images/figure-wrap.html
   image-path="images/carousel_1.jpg"
   image-position="right"
-  image-width="45%"
+  image-width="48%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
   text=chile_nm_text
 %}
