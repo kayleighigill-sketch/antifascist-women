@@ -1,8 +1,8 @@
 ---
 title: "Maria Terwiel"
 layout: scrollstory
-header-image: Maria_Terwiel_1.jpg
-thumbnail: Maria_Terwiel_1.jpg
+header-image: essays/maria-terwiel/images/Maria_Terwiel_1.png.jpg
+thumbnail: essays/maria-terwiel/images/Maria_Terwiel_1.png.jpg
 position: 1
 summary: A biography of Maria Terwiel.
 ---
@@ -18,7 +18,7 @@ Who she married, her childhood, etc.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="Maria_Terwiel_1.jpg"
+  image-path="[Maria_Terwiel_1](images/Maria_Terwiel_1.png).jpg"
   image-position="right"
   image-width="40%"
   caption="Maria Terwiel"
