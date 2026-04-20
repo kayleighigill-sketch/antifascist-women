@@ -1,8 +1,8 @@
 ---
 title: "Maria Terwiel"
 layout: scrollstory
-header-image: essays/maria-terwiel/images/Maria_Terwiel_1.png.jpg
-thumbnail: essays/maria-terwiel/images/Maria_Terwiel_1.png.jpg
+header-image: images/Maria_Terwiel_1.png
+thumbnail: images/Maria_Terwiel_1.png
 position: 1
 summary: A biography of Maria Terwiel.
 ---
@@ -18,14 +18,14 @@ Who she married, her childhood, etc.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="[Maria_Terwiel_1](images/Maria_Terwiel_1.png).jpg"
+  image-path="images/Maria_Terwiel_1.png"
   image-position="right"
   image-width="40%"
   caption="Maria Terwiel"
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"Replace this text with a quote from her."" %}
 
 
 ## The Red Orchestra
