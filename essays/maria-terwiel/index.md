@@ -1,8 +1,8 @@
 ---
 title: "Maria Terwiel"
 layout: scrollstory
-header-image: images/Maria_Terwiel_1.jpeg
-thumbnail: images/Maria_Terwiel_1.jpeg
+header-image: images/Maria_Terwiel_1.jpg
+thumbnail: images/Maria_Terwiel_1.jpg
 position: 1
 summary: A biography of Maria Terwiel.
 ---
@@ -18,7 +18,7 @@ Who she married, her childhood, etc.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="kayleighigill-sketch/antifascist-women/essays/maria-terwiel/images/Maria_Terwiel_1.jpeg"
+  image-path="kayleighigill-sketch/antifascist-women/essays/maria-terwiel/images/Maria_Terwiel_1.jpg"
   image-position="right"
   image-width="40%"
   caption="Maria Terwiel"
