@@ -35,19 +35,19 @@ Instead of a law career, she became a secretary at a textile company. When she g
 
 ## The Red Orchestra - Rote Kappelle 
 
+{% include images/figure-wrap.html
+  image-path="images/The_SchulzeBoysen_Group.png"
+  image-position="right"
+  image-width="48%"
+  caption="Find Terwiel in the top left of this graph."
+  text=chile_nm_text
+%}
+
 The Red Orchestra is the Gestapo name for several groups of socialist-allied resistance groups operating in Berlin. Sometimes called the Schulze-Boysen group, Terwiel and Himpel operated under this framework from 1940 to 1942.  This group was known for distributing leaflets of information on crimes and political information on the Nazi party. 
 
 The Red Orchestra had two notable factors distinguishing it from other organizations operating in the same area: not all members knew the extent of the group, and women played an active part in the group.  The organization was several loose circles of associates, not a tightly defined group. Led by Harro and Libertas Schulze-Boysen, the group consisted of several dozen individuals united by antifascist ideology. These people came from all walks of life, and served as part of a much larger network. The second notable portion of this group is the gender equality found within it’s members. In the case of the Schulze-Boysen’s, both Harro and Libertas had an active role in the resistance, and much of the group was made up of women. 
 
 They passed on information to the Soviet Union, part of the reason for the “red” part of their nickname. It also appears like the group was partially funded by the Soviet Union and other socialist channels.  In 1942, most of the group was discovered by the Gestapo. Estimate vary, but most active members in this group were executed under the crime of treason or espionage. 
-
-{% include images/figure-wrap.html
-  image-path="images/The_SchulzeBoysen_Group.png"
-  image-position="right"
-  image-width="48%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
-  text=chile_nm_text
-%}
 
 ## Terwiel's Role
 
