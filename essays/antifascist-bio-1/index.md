@@ -1,8 +1,8 @@
 ---
 title: "Anti-Fascist Biography 1"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: essays/antifascist-bio-1/images/Maria_Terwiel_1.jpeg
+thumbnail: essays/antifascist-bio-1/images/Maria_Terwiel_1.jpeg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
@@ -22,7 +22,7 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/Maria_Terwiel_1.jpeg"
   image-position="right"
   image-width="80%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
@@ -54,7 +54,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/Maria_Terwiel_Fiance.jpg"
   image-position="right"
   image-width="48%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
@@ -70,6 +70,13 @@ What makes chiles remarkable isn't just their flavor, but their heat—the capsa
 
 There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
 
+{% include images/figure-wrap.html
+  image-path="images/The_SchulzeBoysen_Group.png"
+  image-position="right"
+  image-width="48%"
+  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  text=chile_nm_text
+%}
 
 ## Modern Variations and Challenges
 
