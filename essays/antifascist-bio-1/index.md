@@ -7,68 +7,39 @@ position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
 
-# Biography 1
+# Maria Terwiel
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
-
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
-
-## Wild Origins and Sacred Uses
-
-{% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
-
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
-{% endcapture %}
+Maria Terwiel was born to Johannes and Rosa Terwiel in 1910.  She was born in Boppard, near the Rhine and the French border. She was raised with two siblings, Gerd and Ursula. Her family later moved to Stettin, where her father worked as a civil servant. 
 
 {% include images/figure-wrap.html
   image-path="images/Maria_Terwiel_1.jpeg"
   image-position="right"
-  image-width="80%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  image-width="48%"
+  caption="Maria Terwiel. Via Wikipedia."
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+She graduated secondary school here, later going on to study law at the University of Freiburg. She met her fiancé, Helmut Himpel, at university. Studying financial law, she was due to graduate under her dissertation “Die Allgemeinen Geschäftsbedingungen der Banken, insbesondere die Pfandklaus” in 1935.  
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
+In 1933, when the Nazi party seized power, her father was removed from his role due to SPD party membership. Her father Johannes was Catholic and Prussian, while her mother Rosa was Jewish. This classified Terwiel as half-Jewish, and therefore unable to continue her studies, or marry Himpel.  
 
-
-## The Global Circulation
-
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
-
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
-
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
-
-
-## The New Mexican Obsession
-
-{% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
-
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
-{% endcapture %}
+Instead of a law career, she became a secretary at a textile company. When she got engaged to Himpel in 1940, they lived together as fiancés in Berlin, and Himpel was considered her family’s son-in-law.  He worked as a dentist, and a connection through a patient of his let them join the Red Orchestra.  
 
 {% include images/figure-wrap.html
   image-path="images/Maria_Terwiel_Fiance.jpg"
-  image-position="right"
+  image-position="left"
   image-width="48%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  caption="Maria Terwiel and her fiancé, Helmut Himpel. Via Wikipedia"
   text=chile_nm_text
 %}
 
+## The Red Orchestra - Rote Kappelle 
 
-## The Chemistry of Heat and Culture
+The Red Orchestra is the Gestapo name for several groups of socialist-allied resistance groups operating in Berlin. Sometimes called the Schulze-Boysen group, Terwiel and Himpel operated under this framework from 1940 to 1942.  This group was known for distributing leaflets of information on crimes and political information on the Nazi party. 
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
+The Red Orchestra had two notable factors distinguishing it from other organizations operating in the same area: not all members knew the extent of the group, and women played an active part in the group.  The organization was several loose circles of associates, not a tightly defined group. Led by Harro and Libertas Schulze-Boysen, the group consisted of several dozen individuals united by antifascist ideology. These people came from all walks of life, and served as part of a much larger network. The second notable portion of this group is the gender equality found within it’s members. In the case of the Schulze-Boysen’s, both Harro and Libertas had an active role in the resistance, and much of the group was made up of women. 
 
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
-
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
+They passed on information to the Soviet Union, part of the reason for the “red” part of their nickname. It also appears like the group was partially funded by the Soviet Union and other socialist channels.  In 1942, most of the group was discovered by the Gestapo. Estimate vary, but most active members in this group were executed under the crime of treason or espionage. 
 
 {% include images/figure-wrap.html
   image-path="images/The_SchulzeBoysen_Group.png"
@@ -78,36 +49,22 @@ There's psychology in this. The shared experience of eating something hot—the 
   text=chile_nm_text
 %}
 
-## Modern Variations and Challenges
+## Terwiel's Role
 
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
+Terwiel played an active role in resistance in the Schulze-Boysen group. In her job as a secretary, she typed up and distributed sermons of Bishop von Galen of Münster. Additionally, she helped paste and distribute flyers with antifascist values on them. Her fiancé also played an essential role in the resistance effort. As part of the Schulze-Boysen group, he treated Jewish patients for free. Additionally, he aided Terwiel in distributing flyers. They also helped provide ration cards and false identification for Jewish people in the area.  
 
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
+Terwiel was arrested and tried for treason and “aiding the enemy in” 1942. She was sentenced to execution, and made a petition for clemency. The rejection of this petition was signed personally by Hitler.  Letters from the time indicate she also advised some fellow prisoners how to apply for clemency, and legal arguments to make. She was executed by guillotine in 1943 at the age of 33. During the time between her sentencing and her execution, Himpel was executed under the same crimes.
 
-The carousel below shows the diversity of modern chile culture:
+## Memory
 
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="chile-types" images=images_list %}
-
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
-
-
-## The Future of Southwest Identity
-
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
-
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
-
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
+The memory of this organization hasn’t been stagnant. Because of the communist ties of this organization, perceptions and memories were not originally as positive. Additionally, the memory of Maria Terwiel is partially clouded by her unmarried relationship to Himpel. While she was an antifascist in her own right, in some cases her role in the group is defined as “Mistress to Himpel,” uncharitably painting her impact as minimal.  
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
+**Sources and More Information** German Resistance Memorial Center. “GDW-Berlin: Biographie Maria Terwiel.” Gdw-berlin.de, 2026. https://www.gdw-berlin.de/en/recess/biographies/index-of-persons/biographie/view-bio/maria-terwiel/?no_cache=1.
+German Resistance Memorial Center. “GDW-Berlin: The Red Orchestra.” Gdw-berlin.de, 2025. https://www.gdw-berlin.de/en/recess/topics/14-the-red-orchestra.
+Hennig, Joachim. “012 Maria Terwiel (Member of the ‘Red Orchestra’ from Boppard).” Koblinz Memorial, 2021. https://web.archive.org/web/20230427185614/https://web25.otto.kundenserver42.de/Mahnmal_NEU/index.php/2013-12-12-02-07-02/die-lesemappen/296-012-maria-terwiel-mitglied-der-roten-kapelle-aus-boppard.
+Tuchel, Johannes. “Weltanschauliche Motivationen in Der Harnack/Schulze-Boysen-Organisation: („Rote Kapelle“).” Kirchliche Zeitgeschichte 1, no. 2 (1988): 267–92. http://www.jstor.org/stable/43750615.
+Trumpold, Julia. “Book Review: Red Orchestra: The Story of the Berlin Underground and the Circle of Friends Who Resisted Hitler, Revised Edition. By Anne Nelson.” Peace & Change 49 (February 2024): 287–89. https://doi.org/10.1111/pech.12666.
+Wikipedia Contributors. “Maria Terwiel.” Wikipedia. Wikimedia Foundation, April 1, 2026. https://en.wikipedia.org/wiki/Maria_Terwiel.
+Yager, Jane. "Silencing the Red Orchestra: Restoring a group to their rightful place in the memory of resistance." TLS. Times Literary Supplement, no. 6148 (2021): 20+. 
