@@ -37,8 +37,8 @@ Instead of a law career, she became a secretary at a textile company. When she g
 
 {% include images/figure-wrap.html
   image-path="images/The_SchulzeBoysen_Group.png"
-  image-position="right"
-  image-width="48%"
+  image-position="center"
+  image-width="80%"
   caption="Find Terwiel in the top left of this graph."
   text=chile_nm_text
 %}
