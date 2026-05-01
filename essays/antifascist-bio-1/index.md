@@ -1,8 +1,8 @@
 ---
 title: "Anti-Fascist Biography 1"
 layout: scrollstory
-header-image: essays/antifascist-bio-1/images/Maria_Terwiel_1.jpeg
-thumbnail: essays/antifascist-bio-1/images/Maria_Terwiel_1.jpeg
+header-image: images/Maria_Terwiel_1.jpeg
+thumbnail: images/Maria_Terwiel_1.jpeg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
